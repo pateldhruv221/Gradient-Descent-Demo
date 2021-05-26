@@ -1,0 +1,10 @@
+Enter points below with individual components separated by spaces:
+E.g. (0, 0) = 0 0
+...
+13 1
+2 69
+36 36
+41 14
+55 0
+0 55
+1.2 2.1
